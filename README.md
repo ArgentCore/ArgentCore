@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arash</h1>
 
 <h3 align="center">
-Computer Engineering Student • Backend Developer • Open Source Learner
+ FruntEnd&Backend Developer • Open Source Learner
 </h3>
 
 <p align="center">
-Building my journey toward becoming a professional software engineer.
+
 </p>
 
 <p align="center">
@@ -17,14 +17,14 @@ Building my journey toward becoming a professional software engineer.
 ## 🚀 About Me
 
 - 💻 Computer Engineering Student
-- 🌱 Currently learning **ASP.NET Core**, **Python**, **Linux**, and **Git**
-- 🎯 Goal: Become a professional Backend Developer
-- 🌍 Preparing for an international software engineering career
+- 🌱 Currently learning **PHP**,**Linux**,**Git**
+- 🎯 Goal: Become a professional Developer
+- 🌍 Preparing for international software engineering 
 - 📚 Passionate about Open Source & Continuous Learning
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 My expertise
 
 <p align="left">
 
