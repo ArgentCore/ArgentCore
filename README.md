@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arash</h1>
 
 <h3 align="center">
- FruntEnd&Backend Developer • Open Source Learner
+Front-End & Backend Developer
 </h3>
 
 <p align="center">
