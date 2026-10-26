@@ -17,7 +17,7 @@ Front-End & Backend Developer
 ## 🚀 About Me
 
 - 💻 Computer Engineering Student
-- 🌱 Currently learning **PHP**,**Linux**,**Git**
+- 🌱 Currently learning **PHP**,**Linux**
 - 🎯 Goal: Become a professional Developer
 - 🌍 Preparing for international software engineering 
 - 📚 Passionate about Open Source & Continuous Learning
